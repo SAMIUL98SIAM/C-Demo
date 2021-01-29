@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\Building_Demo\bin\Debug\netcoreapp3.1\Building_Demo.exe
+D:\AIUB\C#\MID_Code\Building_Demo\bin\Debug\netcoreapp3.1\Building_Demo.deps.json
+D:\AIUB\C#\MID_Code\Building_Demo\bin\Debug\netcoreapp3.1\Building_Demo.runtimeconfig.json
+D:\AIUB\C#\MID_Code\Building_Demo\bin\Debug\netcoreapp3.1\Building_Demo.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\Building_Demo\bin\Debug\netcoreapp3.1\Building_Demo.dll
+D:\AIUB\C#\MID_Code\Building_Demo\bin\Debug\netcoreapp3.1\Building_Demo.pdb
+D:\AIUB\C#\MID_Code\Building_Demo\obj\Debug\netcoreapp3.1\Building_Demo.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\Building_Demo\obj\Debug\netcoreapp3.1\Building_Demo.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\Building_Demo\obj\Debug\netcoreapp3.1\Building_Demo.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\Building_Demo\obj\Debug\netcoreapp3.1\Building_Demo.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\Building_Demo\obj\Debug\netcoreapp3.1\Building_Demo.dll
+D:\AIUB\C#\MID_Code\Building_Demo\obj\Debug\netcoreapp3.1\Building_Demo.pdb
+D:\AIUB\C#\MID_Code\Building_Demo\obj\Debug\netcoreapp3.1\Building_Demo.genruntimeconfig.cache

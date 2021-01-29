@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPondWithWPF", "SmartPondWithWPF.csproj", "{2B0F4662-58BC-49CB-A89B-818DE4A28F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B0F4662-58BC-49CB-A89B-818DE4A28F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0F4662-58BC-49CB-A89B-818DE4A28F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0F4662-58BC-49CB-A89B-818DE4A28F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0F4662-58BC-49CB-A89B-818DE4A28F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2809B3-9A80-49DD-BEFF-54553B348EBF}
+	EndGlobalSection
+EndGlobal

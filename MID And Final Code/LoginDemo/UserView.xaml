@@ -1,0 +1,14 @@
+﻿<Window x:Class="LoginDemo.UserView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginDemo"
+        mc:Ignorable="d"
+        Title="UserView" Height="450" Width="800">
+    <Grid Background="Beige">
+        <Label Content="Welcome to Our System" Foreground="BlueViolet" FontSize="40" HorizontalAlignment="Left" Margin="169,139,0,0" VerticalAlignment="Top" Width="457" Height="60"/>
+        <Label Content="" Name="name" Foreground="Green" FontSize="20" HorizontalAlignment="Left" Margin="293,44,0,0" VerticalAlignment="Top" Width="246" Height="37"/>
+
+    </Grid>
+</Window>

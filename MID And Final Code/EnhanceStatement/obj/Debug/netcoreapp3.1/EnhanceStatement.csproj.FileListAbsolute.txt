@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\EnhanceStatement\obj\Debug\netcoreapp3.1\EnhanceStatement.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\EnhanceStatement\obj\Debug\netcoreapp3.1\EnhanceStatement.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\EnhanceStatement\obj\Debug\netcoreapp3.1\EnhanceStatement.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\EnhanceStatement\obj\Debug\netcoreapp3.1\EnhanceStatement.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\EnhanceStatement\bin\Debug\netcoreapp3.1\EnhanceStatement.exe
+D:\AIUB\C#\MID_Code\EnhanceStatement\bin\Debug\netcoreapp3.1\EnhanceStatement.deps.json
+D:\AIUB\C#\MID_Code\EnhanceStatement\bin\Debug\netcoreapp3.1\EnhanceStatement.runtimeconfig.json
+D:\AIUB\C#\MID_Code\EnhanceStatement\bin\Debug\netcoreapp3.1\EnhanceStatement.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\EnhanceStatement\bin\Debug\netcoreapp3.1\EnhanceStatement.dll
+D:\AIUB\C#\MID_Code\EnhanceStatement\bin\Debug\netcoreapp3.1\EnhanceStatement.pdb
+D:\AIUB\C#\MID_Code\EnhanceStatement\obj\Debug\netcoreapp3.1\EnhanceStatement.dll
+D:\AIUB\C#\MID_Code\EnhanceStatement\obj\Debug\netcoreapp3.1\EnhanceStatement.pdb
+D:\AIUB\C#\MID_Code\EnhanceStatement\obj\Debug\netcoreapp3.1\EnhanceStatement.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\BankManageMent\bin\Debug\netcoreapp3.1\BankManageMent.exe
+D:\AIUB\C#\MID_Code\BankManageMent\bin\Debug\netcoreapp3.1\BankManageMent.deps.json
+D:\AIUB\C#\MID_Code\BankManageMent\bin\Debug\netcoreapp3.1\BankManageMent.runtimeconfig.json
+D:\AIUB\C#\MID_Code\BankManageMent\bin\Debug\netcoreapp3.1\BankManageMent.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\BankManageMent\bin\Debug\netcoreapp3.1\BankManageMent.dll
+D:\AIUB\C#\MID_Code\BankManageMent\bin\Debug\netcoreapp3.1\BankManageMent.pdb
+D:\AIUB\C#\MID_Code\BankManageMent\obj\Debug\netcoreapp3.1\BankManageMent.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\BankManageMent\obj\Debug\netcoreapp3.1\BankManageMent.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\BankManageMent\obj\Debug\netcoreapp3.1\BankManageMent.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\BankManageMent\obj\Debug\netcoreapp3.1\BankManageMent.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\BankManageMent\obj\Debug\netcoreapp3.1\BankManageMent.dll
+D:\AIUB\C#\MID_Code\BankManageMent\obj\Debug\netcoreapp3.1\BankManageMent.pdb
+D:\AIUB\C#\MID_Code\BankManageMent\obj\Debug\netcoreapp3.1\BankManageMent.genruntimeconfig.cache

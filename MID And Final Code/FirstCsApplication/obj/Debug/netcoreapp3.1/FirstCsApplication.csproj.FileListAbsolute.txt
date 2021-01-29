@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\FirstCsApplication\bin\Debug\netcoreapp3.1\FirstCsApplication.exe
+D:\AIUB\C#\MID_Code\FirstCsApplication\bin\Debug\netcoreapp3.1\FirstCsApplication.deps.json
+D:\AIUB\C#\MID_Code\FirstCsApplication\bin\Debug\netcoreapp3.1\FirstCsApplication.runtimeconfig.json
+D:\AIUB\C#\MID_Code\FirstCsApplication\bin\Debug\netcoreapp3.1\FirstCsApplication.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\FirstCsApplication\bin\Debug\netcoreapp3.1\FirstCsApplication.dll
+D:\AIUB\C#\MID_Code\FirstCsApplication\bin\Debug\netcoreapp3.1\FirstCsApplication.pdb
+D:\AIUB\C#\MID_Code\FirstCsApplication\obj\Debug\netcoreapp3.1\FirstCsApplication.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\FirstCsApplication\obj\Debug\netcoreapp3.1\FirstCsApplication.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\FirstCsApplication\obj\Debug\netcoreapp3.1\FirstCsApplication.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\FirstCsApplication\obj\Debug\netcoreapp3.1\FirstCsApplication.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\FirstCsApplication\obj\Debug\netcoreapp3.1\FirstCsApplication.dll
+D:\AIUB\C#\MID_Code\FirstCsApplication\obj\Debug\netcoreapp3.1\FirstCsApplication.pdb
+D:\AIUB\C#\MID_Code\FirstCsApplication\obj\Debug\netcoreapp3.1\FirstCsApplication.genruntimeconfig.cache

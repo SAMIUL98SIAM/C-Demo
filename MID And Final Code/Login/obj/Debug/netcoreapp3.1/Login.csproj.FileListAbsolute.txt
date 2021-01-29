@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\Login\bin\Debug\netcoreapp3.1\Login.exe
+D:\AIUB\C#\MID_Code\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+D:\AIUB\C#\MID_Code\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+D:\AIUB\C#\MID_Code\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\Login\bin\Debug\netcoreapp3.1\Login.dll
+D:\AIUB\C#\MID_Code\Login\bin\Debug\netcoreapp3.1\Login.pdb
+D:\AIUB\C#\MID_Code\Login\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\Login\obj\Debug\netcoreapp3.1\Login.dll
+D:\AIUB\C#\MID_Code\Login\obj\Debug\netcoreapp3.1\Login.pdb
+D:\AIUB\C#\MID_Code\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache

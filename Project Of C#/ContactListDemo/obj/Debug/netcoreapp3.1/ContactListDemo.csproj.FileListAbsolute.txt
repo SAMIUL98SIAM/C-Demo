@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\ContactListDemo\bin\Debug\netcoreapp3.1\ContactListDemo.exe
+D:\AIUB\C#\MID_Code\ContactListDemo\bin\Debug\netcoreapp3.1\ContactListDemo.deps.json
+D:\AIUB\C#\MID_Code\ContactListDemo\bin\Debug\netcoreapp3.1\ContactListDemo.runtimeconfig.json
+D:\AIUB\C#\MID_Code\ContactListDemo\bin\Debug\netcoreapp3.1\ContactListDemo.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\ContactListDemo\bin\Debug\netcoreapp3.1\ContactListDemo.dll
+D:\AIUB\C#\MID_Code\ContactListDemo\bin\Debug\netcoreapp3.1\ContactListDemo.pdb
+D:\AIUB\C#\MID_Code\ContactListDemo\obj\Debug\netcoreapp3.1\ContactListDemo.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\ContactListDemo\obj\Debug\netcoreapp3.1\ContactListDemo.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\ContactListDemo\obj\Debug\netcoreapp3.1\ContactListDemo.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\ContactListDemo\obj\Debug\netcoreapp3.1\ContactListDemo.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\ContactListDemo\obj\Debug\netcoreapp3.1\ContactListDemo.dll
+D:\AIUB\C#\MID_Code\ContactListDemo\obj\Debug\netcoreapp3.1\ContactListDemo.pdb
+D:\AIUB\C#\MID_Code\ContactListDemo\obj\Debug\netcoreapp3.1\ContactListDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\InheritenceDemo\bin\Debug\netcoreapp3.1\InheritenceDemo.exe
+D:\AIUB\C#\MID_Code\InheritenceDemo\bin\Debug\netcoreapp3.1\InheritenceDemo.deps.json
+D:\AIUB\C#\MID_Code\InheritenceDemo\bin\Debug\netcoreapp3.1\InheritenceDemo.runtimeconfig.json
+D:\AIUB\C#\MID_Code\InheritenceDemo\bin\Debug\netcoreapp3.1\InheritenceDemo.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\InheritenceDemo\bin\Debug\netcoreapp3.1\InheritenceDemo.dll
+D:\AIUB\C#\MID_Code\InheritenceDemo\bin\Debug\netcoreapp3.1\InheritenceDemo.pdb
+D:\AIUB\C#\MID_Code\InheritenceDemo\obj\Debug\netcoreapp3.1\InheritenceDemo.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\InheritenceDemo\obj\Debug\netcoreapp3.1\InheritenceDemo.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\InheritenceDemo\obj\Debug\netcoreapp3.1\InheritenceDemo.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\InheritenceDemo\obj\Debug\netcoreapp3.1\InheritenceDemo.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\InheritenceDemo\obj\Debug\netcoreapp3.1\InheritenceDemo.dll
+D:\AIUB\C#\MID_Code\InheritenceDemo\obj\Debug\netcoreapp3.1\InheritenceDemo.pdb
+D:\AIUB\C#\MID_Code\InheritenceDemo\obj\Debug\netcoreapp3.1\InheritenceDemo.genruntimeconfig.cache

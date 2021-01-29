@@ -1,0 +1,13 @@
+D:\C#\MID_Code\Others\BookDemo\BookDemo\obj\Debug\netcoreapp3.1\BookDemo.csprojAssemblyReference.cache
+D:\C#\MID_Code\Others\BookDemo\BookDemo\obj\Debug\netcoreapp3.1\BookDemo.AssemblyInfoInputs.cache
+D:\C#\MID_Code\Others\BookDemo\BookDemo\obj\Debug\netcoreapp3.1\BookDemo.AssemblyInfo.cs
+D:\C#\MID_Code\Others\BookDemo\BookDemo\obj\Debug\netcoreapp3.1\BookDemo.csproj.CoreCompileInputs.cache
+D:\C#\MID_Code\Others\BookDemo\BookDemo\bin\Debug\netcoreapp3.1\BookDemo.exe
+D:\C#\MID_Code\Others\BookDemo\BookDemo\bin\Debug\netcoreapp3.1\BookDemo.deps.json
+D:\C#\MID_Code\Others\BookDemo\BookDemo\bin\Debug\netcoreapp3.1\BookDemo.runtimeconfig.json
+D:\C#\MID_Code\Others\BookDemo\BookDemo\bin\Debug\netcoreapp3.1\BookDemo.runtimeconfig.dev.json
+D:\C#\MID_Code\Others\BookDemo\BookDemo\bin\Debug\netcoreapp3.1\BookDemo.dll
+D:\C#\MID_Code\Others\BookDemo\BookDemo\bin\Debug\netcoreapp3.1\BookDemo.pdb
+D:\C#\MID_Code\Others\BookDemo\BookDemo\obj\Debug\netcoreapp3.1\BookDemo.dll
+D:\C#\MID_Code\Others\BookDemo\BookDemo\obj\Debug\netcoreapp3.1\BookDemo.pdb
+D:\C#\MID_Code\Others\BookDemo\BookDemo\obj\Debug\netcoreapp3.1\BookDemo.genruntimeconfig.cache

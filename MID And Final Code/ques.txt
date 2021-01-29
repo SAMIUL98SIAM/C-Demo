@@ -1,0 +1,28 @@
+Instructions
+You have to manage a contact list where you keep the list the phone numbers, names, address of your friends and families or business relations.
+Create a console based C# application to make the management of this list easier for you.
+This application will have two parts - one to deal with data entry, data update and data deletion and the other part is for searching contact based on names.
+The data needed to be saved for each conacts are as follows - name, address, phone number and relataion type (FRIEND, FAMILY, BUSINESS).
+The program structure will have to follow the way we learnt in lab class.
+The application will have one entry class to start the program with Main, one IO class that will handle Input/Output, one class that will manage all the contacts (will contain the list of all contacts), once class to keep contact data (phone, name, etc).
+The io class will sit in a loop and ask what the user wants to do - add, update, delete or search by name.
+The program will work accordig to user's intention.
+Sample input and output -
+Welcome to contact management software.
+What would you like to do today (ADD/DELETE/UPDATE/SEARCH)?
+ADD (this is user's input)
+Name: Mr. John
+Phone: 01884884
+Address: hhshkdlasjdlks
+Relation: Business
+Contact added successfully.
+What would you like to do today (ADD/DELETE/UPDATE/SEARCH)?
+SEARCH (this is user's input)
+Enter the name or part of the name you want to search by -
+John
+Found one contact -
+Name: Mr. John
+Phone: 01884884
+Address: hhshkdlasjdlks
+Relation: Business
+-----

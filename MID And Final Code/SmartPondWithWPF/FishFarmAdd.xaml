@@ -1,0 +1,32 @@
+﻿<Window x:Class="SmartPondWithWPF.FishFarmAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartPondWithWPF"
+        mc:Ignorable="d"
+        Title="FishFarmAdd" Height="450" Width="800">
+    <Grid Background="Azure">
+        <Label Background="Green" Foreground="White" Content="Please Add Sensor data like Ph or temperature......" FontWeight="Bold"  FontSize="22" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="792" Height="50" RenderTransformOrigin="0.5,0.5"/>
+
+        <Label Content="Sensor id: " HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top" Width="86" Height="34"  FontSize="17"/>
+        <TextBox Name="sid" HorizontalAlignment="Left" Height="34" Margin="128,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="20" Width="120"/>
+        <Label Content="Sensor Type: " FontSize="17" HorizontalAlignment="Left" Margin="10,135,0,0" VerticalAlignment="Top" Width="106" Height="34"/>
+        <ComboBox Name="stype" HorizontalAlignment="Left" Margin="128,135,0,0" VerticalAlignment="Top" Width="120" Height="34" RenderTransformOrigin="0.562,-0.024">
+            <ComboBoxItem IsSelected="True" Name="ph">PH Data</ComboBoxItem>
+            <ComboBoxItem Name="temp">Temperature Data</ComboBoxItem>
+        </ComboBox>
+        <Label Content="Data Intime: " FontSize="17" HorizontalAlignment="Left" Margin="10,195,0,0" VerticalAlignment="Top" Height="42" Width="106" RenderTransformOrigin="-0.623,1.38"/>
+        <TextBox  x:Name="inTime" HorizontalAlignment="Left" Height="34" Margin="128,195,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.52,0.772"/>
+        <TextBox  x:Name="outTime" HorizontalAlignment="Left" Height="34" Margin="128,252,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.52,0.772"/>
+        <Label Content="Data OutTime" FontSize="16" HorizontalAlignment="Left" Margin="10,252,0,0" VerticalAlignment="Top" Width="116" Height="34"/>
+        <Label Content="Duration: " FontSize="16" HorizontalAlignment="Left" Margin="10,345,0,0" VerticalAlignment="Top" Width="106" Height="34"/>
+        <TextBox Name="sduration" HorizontalAlignment="Left" Height="34" FontSize="20" Margin="128,345,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.627,1.443"/>
+        <Label Content="Sensor Data: "  FontSize="17" HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Width="106" Height="35"/>
+        <TextBox Name="sdata" HorizontalAlignment="Left" Height="34" Margin="128,305,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Insert Data" Name="save" FontSize="16" HorizontalAlignment="Left" Margin="10,384,0,0" VerticalAlignment="Top" Width="106" Height="25" RenderTransformOrigin="0.57,0.539" Click="save_Click"/>
+        <DataGrid Name="datagridview1" HorizontalAlignment="Left" Height="282" Margin="307,112,0,0" VerticalAlignment="Top" Width="475"/>
+        <Label Content="" Name="timeUp" FontWeight="Bold" FontSize="16" HorizontalAlignment="Left" Margin="307,65,0,0" VerticalAlignment="Top" Width="158" Height="42"/>
+        <Label Content="" Name="nextname"  HorizontalAlignment="Left" Margin="506,65,0,0" VerticalAlignment="Top" Width="276" Height="42"/>
+    </Grid>
+</Window>

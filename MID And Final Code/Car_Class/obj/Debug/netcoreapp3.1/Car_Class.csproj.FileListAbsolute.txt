@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\Car_Class\obj\Debug\netcoreapp3.1\Car_Class.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\Car_Class\obj\Debug\netcoreapp3.1\Car_Class.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\Car_Class\obj\Debug\netcoreapp3.1\Car_Class.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\Car_Class\obj\Debug\netcoreapp3.1\Car_Class.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\Car_Class\bin\Debug\netcoreapp3.1\Car_Class.exe
+D:\AIUB\C#\MID_Code\Car_Class\bin\Debug\netcoreapp3.1\Car_Class.deps.json
+D:\AIUB\C#\MID_Code\Car_Class\bin\Debug\netcoreapp3.1\Car_Class.runtimeconfig.json
+D:\AIUB\C#\MID_Code\Car_Class\bin\Debug\netcoreapp3.1\Car_Class.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\Car_Class\bin\Debug\netcoreapp3.1\Car_Class.dll
+D:\AIUB\C#\MID_Code\Car_Class\bin\Debug\netcoreapp3.1\Car_Class.pdb
+D:\AIUB\C#\MID_Code\Car_Class\obj\Debug\netcoreapp3.1\Car_Class.dll
+D:\AIUB\C#\MID_Code\Car_Class\obj\Debug\netcoreapp3.1\Car_Class.pdb
+D:\AIUB\C#\MID_Code\Car_Class\obj\Debug\netcoreapp3.1\Car_Class.genruntimeconfig.cache

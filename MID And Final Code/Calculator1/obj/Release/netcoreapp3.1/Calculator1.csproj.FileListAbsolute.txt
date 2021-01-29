@@ -1,0 +1,13 @@
+D:\AIUB\C#\MID_Code\Calculator1\bin\Release\netcoreapp3.1\Calculator1.exe
+D:\AIUB\C#\MID_Code\Calculator1\bin\Release\netcoreapp3.1\Calculator1.deps.json
+D:\AIUB\C#\MID_Code\Calculator1\bin\Release\netcoreapp3.1\Calculator1.runtimeconfig.json
+D:\AIUB\C#\MID_Code\Calculator1\bin\Release\netcoreapp3.1\Calculator1.runtimeconfig.dev.json
+D:\AIUB\C#\MID_Code\Calculator1\bin\Release\netcoreapp3.1\Calculator1.dll
+D:\AIUB\C#\MID_Code\Calculator1\bin\Release\netcoreapp3.1\Calculator1.pdb
+D:\AIUB\C#\MID_Code\Calculator1\obj\Release\netcoreapp3.1\Calculator1.csprojAssemblyReference.cache
+D:\AIUB\C#\MID_Code\Calculator1\obj\Release\netcoreapp3.1\Calculator1.AssemblyInfoInputs.cache
+D:\AIUB\C#\MID_Code\Calculator1\obj\Release\netcoreapp3.1\Calculator1.AssemblyInfo.cs
+D:\AIUB\C#\MID_Code\Calculator1\obj\Release\netcoreapp3.1\Calculator1.csproj.CoreCompileInputs.cache
+D:\AIUB\C#\MID_Code\Calculator1\obj\Release\netcoreapp3.1\Calculator1.dll
+D:\AIUB\C#\MID_Code\Calculator1\obj\Release\netcoreapp3.1\Calculator1.pdb
+D:\AIUB\C#\MID_Code\Calculator1\obj\Release\netcoreapp3.1\Calculator1.genruntimeconfig.cache
